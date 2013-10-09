@@ -1,0 +1,53 @@
+.style1 { /*class untuk menentukan style footer*/
+color: green;
+font-weight: bold;
+width: 1500px;
+height: 130px;
+display: inline-block;
+background-color: #33FF33;
+position: absolute;
+left: 1px;
+}
+.style2 { /*class untuk menentukan style tulisan*/
+color: white;
+font-weight: bold;
+font-size: 40px;
+position: absolute;
+top: 4px;
+left: 78px;
+}
+.style3 { /*class untuk menentukan style kotak login*/
+position: absolute;
+top: 44px;
+left: 928px;
+}
+.style4 { /*class untuk menentukan style kotak password*/
+position: absolute;
+top: 44px;
+left: 1078px;
+}
+.style5 { /*class untuk menentukan style tombol login*/
+position: absolute;
+top: 44px;
+left: 1228px;
+padding:2px;
+background-color: #0ED007;
+color:white;
+font-weight: 700;
+}
+
+.style5:hover{ /*memberikan efek 3d pada tombol*/
+	cursor: pointer;
+
+}
+#hasillogin { /*id untuk menentukan style hasil login*/
+position: absolute;
+top: 244px;
+left: 528px;
+margin:  20px auto;
+width: 15%;
+height: auto;
+padding: 10px;
+border: 1px solid brown
+}
+
