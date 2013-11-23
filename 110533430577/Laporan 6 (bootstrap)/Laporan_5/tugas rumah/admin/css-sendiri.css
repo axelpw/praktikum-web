@@ -1,0 +1,24 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.inner{
+		margin: 12px auto;
+		padding: 40px;
+		width: 360px;
+		border: 3px solid #333;
+}
+
+.navbar-warna {
+ background-color: #f8f8f8;
+  border-color: #e7e7e7;
+}
+
+.copyright {
+font-size: 15px;
+text-align: left;
+}
